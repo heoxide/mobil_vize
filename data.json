@@ -1,0 +1,34 @@
+{
+   "yerler":[
+      {
+         "isim":"Topkapı Sarayı",
+         "tarih":"1465-1478",
+         "aciklama":"Topkapı Sarayı, İstanbul Sarayburnu'nda, Osmanlı İmparatorluğu'nun 600 yıllık tarihinin 400 yılı boyunca, devletin idare merkezi olarak kullanılan ve Osmanlı padişahlarının yaşadığı saraydır. Bir zamanlar içinde 4.000'e yakın insan yaşamıştır."
+      },
+      {
+         "isim":"Sultanahmet Camii",
+         "tarih":"1609-1617",
+         "aciklama":"Sultanahmet Camii, Osmanlı Sultanı I. Ahmet tarafından 1609 – 1616 tarihleri arasında yaptırılmıştır. Klâsik Türk sanatının en tipik örneği olan eser, orijinal olarak 6 minare ile inşa edilen ilk camidir. Mimar Sinan'ın eserlerinden biri olmadığı halde bu yapı Sinan'dan izler taşımaktadır."
+      },
+      {
+         "isim":"Yerebatan Sarnıcı",
+         "tarih":"6. yüzyıl",
+         "aciklama":"Bizans İmparatoru I. Justinianus (527-565) tarafından yaptırılan bu büyük yeraltı sarnıcı, suyun içinden yükselen ve sayısız gibi görülen mermer sütunlar sebebiyle halk arasında 'Yerebatan Sarayı' olarak isimlendirilmiştir.Sarnıcın bulunduğu yerde daha önce bir Bazilika bulunduğundan, Bazilika Sarnıcı olarak da anılır."
+      },
+      {
+         "isim":"Ayasofya",
+         "tarih":"532-537",
+         "aciklama":"Bugünkü Ayasofya aynı yerde öncekilerinden farklı bir mimari anlayışla yapılan üçüncü yapı. İmparator Justinianus tarafından Tralles'li(Aydın) Anthemios ve Miletos'lu (Balat) Isidoros'a yaptırıldı."
+      },
+      {
+         "isim":"Galata Kulesi",
+         "tarih":"528",
+         "aciklama":"Galata Kulesi dünyanın en eski kulelerinden biri olup, Bizans İmparatoru Anastasius tarafından 528 yılında Fener Kulesi olarak inşa ettirilmiştir. 1204 yılındaki IV. Haçlı Seferi'nde geniş çapta tahrip edilen kule, daha sonra 1348 yılında 'İsa Kulesi' adıyla yığma taşlar kullanılarak Cenevizliler tarafından Galata surlarına ek olarak yeniden yapılmıştır. 1348 yılında yeniden yapıldığında kentin en büyük binası olmuştur."
+      },
+      {
+         "isim":"Dolmabahçe Sarayı",
+         "tarih":"1843-1856",
+         "aciklama":"Osmanlı'nın modernleşme hedefine uygun olarak Batı anlayışı ile tasarlanan Dolmabahçe Sarayı, 7 Haziran 1856 tarihinde kullanıma açılmış. Dolmabahçe Sarayı, Garabet Amira Balyan ve oğlu Nikogos Balyan mimarlığında inşa edilmiş."
+      }
+   ]
+}
